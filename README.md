@@ -1,1 +1,1 @@
-# odin-recipes
+With the help of this project I learned how to use lists (unordered and ordered), placing images and linking to other webpages.
