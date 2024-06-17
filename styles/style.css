@@ -1,7 +1,25 @@
-body{
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
     background-color: #add8e6;
 }
 
-ul{
+.main-content {
+   width: auto;
+   height: auto;
+   margin: 0 auto;
+   text-align: center;
+}
+
+ul {
     font-size: 25px;
+    list-style-type: none;
+}
+
+li {
+    margin-top: 25px;
 }
